@@ -1,1 +1,1 @@
-# TRex-stage-1
+# trex-stage-0.5
